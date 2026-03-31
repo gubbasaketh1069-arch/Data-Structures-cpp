@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define SIZE 5;
+#define SIZE 5
 class stack{
     private:
         int top=-1;
