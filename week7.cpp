@@ -69,7 +69,7 @@ int main (){
             case 5:if(s1.isFull()){
                     cout<<"stack is full"<<endl; 
                 }else{
-                cout<<"stack is full"<<endl;
+                cout<<"stack is not full"<<endl;
             } 
                     break;
             case 6:cout<<"Exiting the programm"<<endl;
