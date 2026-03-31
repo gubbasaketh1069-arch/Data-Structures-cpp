@@ -29,8 +29,8 @@ class stack{
                 cout<<"No element present "<<endl;
                 return;
             }
-            top--;
             cout<<"Element poped - "<<st[top]<<endl;
+            top--;
         }
 
         void peek(){
